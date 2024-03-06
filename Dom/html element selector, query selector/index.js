@@ -1,4 +1,4 @@
-
+// finding elements
 let heading1 = document.getElementsByTagName("h1")[0];
 heading1.innerHTML = "This is heading 1";
 
