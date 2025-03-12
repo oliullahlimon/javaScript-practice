@@ -1,0 +1,15 @@
+button {
+    padding: 10px 20px;
+    background-color: darkolivegreen;
+    color: aliceblue;
+    border: none;
+    border-radius: 3px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+p:hover {
+    cursor: pointer;
+}
